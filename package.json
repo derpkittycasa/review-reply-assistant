@@ -1,0 +1,13 @@
+{
+  "name": "review-reply-assistant",
+  "version": "1.0.0",
+  "description": "Review triage and reply assistant for sellers",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
